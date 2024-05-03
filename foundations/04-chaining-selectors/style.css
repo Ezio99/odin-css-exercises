@@ -1,4 +1,5 @@
 /* Add CSS Styling */
+/* Adding style for element having both classess */
 .avatar.proportioned{
     width: 300px;
     height: auto;

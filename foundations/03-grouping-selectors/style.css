@@ -1,4 +1,5 @@
-.first,
+/* Adding style for both classes first and second */
+.first, 
 .second
 {
     font-size: 28px;
