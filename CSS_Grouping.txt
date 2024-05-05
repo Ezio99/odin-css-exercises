@@ -1,0 +1,12 @@
+/* Adding style for both classes first and second */
+.first, 
+.second
+
+/* Adding style for element having both classess */
+.first.second
+
+/* Adding style for all second class elements which are a descendant of first*/ 
+.first .second
+
+/* Adding style for all second class elements which are a child (direct descendant) of first*/ 
+.first > .second
